@@ -7,7 +7,7 @@ require (
 	github.com/beevik/ntp v0.2.0
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bwmarrin/discordgo v0.19.0
-	github.com/coreos/etcd v3.3.15+incompatible
+	go.etcd.io/etcd v3.3.15+incompatible
 	github.com/coreos/go-systemd v0.0.0-20190719114852-fd7a80b32e1f // indirect
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 	github.com/forestgiant/sliceutil v0.0.0-20160425183142-94783f95db6c
